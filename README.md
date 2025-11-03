@@ -1,4 +1,9 @@
 # Hi there, I'm Chandra 👋
+
+<div align="center">
+  <img src="github-banner-v2.jpg" alt="Data Engineering Banner" width="100%" style="max-width: 800px; border-radius: 10px;"/>
+</div>
+
 ## Data Engineer | Azure Data Platform Architect | Gen AI Enthusiast
 
 🔹 6+ years of transforming data into actionable insights  
