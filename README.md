@@ -1,8 +1,8 @@
-# Hi there, I'm Chandra Shekhar Som 👋
+# Hi there, I'm Chandra 👋
 
-## Technical Lead - Data Engineering | Azure Data Platform Architect
+## Data Engineer | Azure Data Platform Architect | Gen AI Enthusiast
 
-🔹 6+ years of experience building scalable data platforms on Microsoft Azure  
+🔹 6+ years of transforming data into actionable insights  
 🔹 Specialized in Azure Data Factory, Databricks, Synapse, and Microsoft Fabric  
 🔹 Passionate about leveraging Gen AI for analytics automation  
 🔹 Based in Hyderabad, India 🇮🇳
@@ -15,23 +15,25 @@
 
 ## 🚀 About Me
 
-I'm a **Technical Lead** at Quadrant Technologies, where I architect and deliver end-to-end data platforms analyzing data from **150+ Azure subscriptions**. My work focuses on:
+I'm a **Data Engineer** passionate about building scalable, intelligent data platforms that drive business value. My journey in data engineering has been focused on:
 
-- 🏗️ Designing **medallion architecture** pipelines using ADF + Databricks (PySpark)
-- 📊 Building enterprise-grade **Power BI dashboards** with complex DAX and RLS
-- 🔍 Implementing **telemetry-driven anomaly detection** using Kusto (KQL) and Logic Apps
-- 🤖 Leveraging **Gen AI tools** (Azure MCP server, GitHub Copilot) for analytics automation
-- 💰 Driving **cost optimization** and security governance across cloud infrastructure
+- 🏗️ Designing **end-to-end data pipelines** using modern Azure technologies
+- 📊 Creating **interactive dashboards** that tell compelling data stories
+- 🔍 Implementing **smart anomaly detection** systems using advanced analytics
+- 🤖 Exploring **Gen AI integration** to make data more accessible and actionable
+- 💡 Solving complex data challenges with elegant, performant solutions
+
+I believe in **continuous learning**, **open collaboration**, and **building data systems that make a real impact**.
 
 ---
 
-## 💼 Professional Highlights
+## 💼 What I Bring to the Table
 
-- 📈 **20% cost savings** achieved through spend visibility and optimization initiatives
-- ⚡ **45% latency reduction** by implementing efficient API pagination and throttling strategies
-- 🎯 **15+ KPIs** delivered through interactive Power BI dashboards for executive decision-making
-- 👥 **Mentored engineers** and standardized Spark practices for team scalability
-- 🏆 **Microsoft Certified Professional** with multiple Azure and SQL certifications
+- 📈 **Impact-Driven Results**: Delivered solutions achieving significant cost savings and performance improvements
+- ⚡ **Performance Optimization**: Expert at reducing latency and improving data processing efficiency
+- 🎯 **Business Intelligence**: Skilled at translating complex data into clear, actionable insights
+- 👥 **Knowledge Sharing**: Passionate mentor who enjoys helping others grow their technical skills
+- 🏆 **Continuous Growth**: Microsoft Certified Professional constantly expanding my technical horizons
 
 ---
 
@@ -46,7 +48,6 @@ I'm a **Technical Lead** at Quadrant Technologies, where I architect and deliver
 
 ### Data Engineering & Processing
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Kusto](https://img.shields.io/badge/Kusto-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
@@ -68,82 +69,32 @@ I'm a **Technical Lead** at Quadrant Technologies, where I architect and deliver
 
 ---
 
-## 📚 Featured Projects
+## 🌱 Currently Exploring
 
-### 🏢 Enterprise Cost & Security Analytics Platform
-**Tech Stack:** Azure Data Factory, Databricks (PySpark), Kusto (KQL), Power BI, ADLS Gen2
-
-- Architected medallion pipeline processing data from 150+ Azure subscriptions
-- Implemented anomaly detection using KQL queries and Logic Apps
-- Built 15+ interactive dashboards with RLS and complex DAX measures
-- Achieved 20% cost savings through telemetry-driven insights
-
-### 🤖 Gen AI Analytics Automation
-**Tech Stack:** Azure MCP Server, GitHub Copilot, Kusto, Python
-
-- Developed natural language querying capabilities for Kusto databases
-- Automated generation of analytical insights using AI-powered workflows
-- Enhanced data accessibility for non-technical stakeholders
-
-### 📊 Real-Time Data Integration Pipeline
-**Tech Stack:** ADF, Databricks, Parquet, ADLS Gen2
-
-- Designed scalable ETL pipelines handling millions of API records daily
-- Implemented pagination, throttling, and retry logic reducing latency by 45%
-- Enabled schema evolution and robust data lineage tracking
-
----
-
-## 🎓 Certifications
-
-🏅 **Microsoft Certified: Azure Data Engineer Associate**  
-🏅 **Microsoft Certified: Azure Developer Associate**  
-🏅 **MCSA: SQL 2016 Database Development**  
-🏅 **MCSA: Business Intelligence Development**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-shekhar1029&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-shekhar1029&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🌱 Currently Learning & Exploring
-
-- Advanced **Gen AI integration** in data analytics workflows
-- **LLM-powered** natural language to SQL query generation
-- **Real-time streaming** architectures with Azure Event Hubs and Kafka
-- **MLOps** practices for production ML pipelines
+- 🤖 **Gen AI & LLMs**: Building intelligent data interfaces with natural language processing
+- 🌊 **Real-Time Analytics**: Event-driven architectures with Azure Event Hubs and Kafka
+- 🔬 **MLOps**: Production-grade ML pipeline automation and monitoring
+- 📊 **Advanced Analytics**: Deep diving into statistical modeling and predictive analytics
+- 🛠️ **Open Source**: Contributing to data engineering tools and communities
+- 🎨 **Data Storytelling**: Crafting narratives that make complex data accessible to everyone
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing data engineering, cloud architecture, or potential collaborations!
+I'm always excited to connect with fellow data enthusiasts, discuss interesting problems, or explore collaboration opportunities!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/c-shekhar1029/)
-- 🌐 [Portfolio](https://cs-portfolio-chi.vercel.app/)
-- 📧 [Email](mailto:chandra.shekhar1029@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/c-shekhar1029/) - Let's network!
+- 🌐 [Portfolio](https://cs-portfolio-chi.vercel.app/) - Check out my work
+- 📧 [Email](mailto:chandra.shekhar1029@gmail.com) - Drop me a message
 - 📍 Hyderabad, India
 
----
-
-## 💡 Fun Facts
-
-- 🎯 Successfully reduced data processing latency by 45% through optimization strategies
-- 🏆 Received Rising Star of the Quarter nomination and two Spot Awards
-- 🎓 Educated at Jawahar Navodaya Vidyalaya - a premier residential school system in India
-- 🚀 Passionate about mentoring engineers and sharing knowledge through corporate trainings
+Whether you want to discuss **data architecture**, **cloud solutions**, **Gen AI applications**, or just chat about the latest in tech - feel free to reach out!
 
 ---
 
 <div align="center">
   
-### "Turning data into insights, one pipeline at a time" 🚀
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=c-shekhar1029.c-shekhar1029)
+### Building bridges between data and insights, one pipeline at a time 🚀
 
 </div>
