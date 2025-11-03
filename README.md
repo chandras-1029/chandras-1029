@@ -1,5 +1,4 @@
 # Hi there, I'm Chandra 👋
-
 ## Data Engineer | Azure Data Platform Architect | Gen AI Enthusiast
 
 🔹 6+ years of transforming data into actionable insights  
